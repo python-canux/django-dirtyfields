@@ -6,7 +6,8 @@ ChangeLog
 master
 ------
 
-No changes yet
+*New:*
+    - Confirm support of Django 3.2
 
 1.5.0 (15/01/2021)
 ------------------
